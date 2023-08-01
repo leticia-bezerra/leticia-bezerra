@@ -1,4 +1,4 @@
-"Olá Mundo!" eu sou a Leth e bem vindos ao meu perfil!
+"Hello Word!" eu sou a Leth e bem vindos ao meu perfil!
 
 
 - 🔭 Atualmente sai do nicho de suporte Helpdesk para realizar a transição de carreira para Desenvolvimento Web.
