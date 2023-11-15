@@ -7,4 +7,3 @@
 - 👩🏻 Introdução do perfil profissional: Boa comunicação, profissional auto-gerencial, trabalho em equipe, organização, compreensão e analise de cenario, perfil analitico e logico, processos.
 - 😄 Pronomes: Ela/Dela
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
